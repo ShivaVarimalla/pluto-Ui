@@ -1,0 +1,15 @@
+
+.head{
+    justify-content: flex-end;
+}
+.element{
+    color: white;
+    font-size: large;
+}
+.center{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
