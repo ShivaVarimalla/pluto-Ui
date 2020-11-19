@@ -21,6 +21,7 @@ function App() {
           </div>
       </div>
       <Registration/>
+      <Ourservices/>
       <Footer/>
     </div>
   );
