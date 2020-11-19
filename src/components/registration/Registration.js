@@ -7,31 +7,40 @@ import 'react-dropdown/style.css';
 function Registration() {
 
   const CourseOptions = [
-    'Machine Learning','PCB Design'
+    'Machine Learning',
+    'PCB Design'
+  ];
+
+  const LocationOptions = [
+    'Hyderabad',
+    'Mumbai',
+    'Pune'
   ];
 
   return (
     <div className="Registration">
-        <h1 className="heading-registration">Registration</h1>
-        <form>
+      <div className='container-reg'>
+        <h1 className="heading-registration">REGISTRATION</h1>
+        <form className='form'>
           <div className="input-field">
-            <label for="InputName">Name </label>
-            <input type="text" name='InputName' className="form-control" placeholder="Enter Your name"/>
+            <label for="InputName">Name </label><br/>
+            <input className='input-box' type="text" name='InputName' placeholder="Enter Your name"/>
           </div>
           <div className="input-field">
-            <label for="InputContact">Contact </label>
-            <input type="text" className="form-control" placeholder="Enter your Number"/>
+            <label for="InputContact">Contact </label><br/>
+            <input className='input-box' name='InputContact' type="text" placeholder="Enter your Number"/>
           </div>
           <div className="input-field">
             <label for="InputLocation">Location </label>
-            <input type="text" className="form-control" placeholder="Enter your location"/>
+            <Dropdown className='input-box' options={LocationOptions} value={LocationOptions[0]} placeholder="Select your location" />
           </div>
           <div className="input-field">
             <label for="InputCourse">Course </label>
-            <Dropdown className='drop-down' options={CourseOptions} value={CourseOptions[0]} placeholder="Select an course" />
+            <Dropdown className='input-box' options={CourseOptions} value={CourseOptions[0]} placeholder="Select an course" />
           </div>
-          <button type="submit" className="start-button">Submit</button>
+          <button type="submit" className="start-button center-button">Submit</button>
       </form>
+      </div>
     </div>
   );
 }
