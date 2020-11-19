@@ -1,0 +1,32 @@
+.footer {
+    height: 300px;
+    width: 100%;
+    background-color:#030333ec;
+   
+}
+.main{
+    display: flex;
+}
+.head{
+    color: white;
+    font-family: sans-serif;
+}
+.content1{
+    justify-content: center;
+}
+.Ul{
+    list-style-type: none;
+    color: rgb(131, 126, 126);
+    font-family: sans-serif;  
+}
+.input{
+    height: 40px;
+    width: 350px;
+    margin-left: 40px;
+}
+.Button{
+    height: 46px;
+    background-color: #F7631B;
+}
+
+
