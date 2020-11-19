@@ -1,11 +1,14 @@
 .footer {
-    height: 300px;
     width: 100%;
-    background-color:#030333ec;
+    background-color:#04091E;
    
 }
 .main{
+    padding-top: 50px;
+    padding-bottom: 50px;
     display: flex;
+    width: 1200px;
+    margin : 0 auto;
 }
 .head{
     color: white;
@@ -13,20 +16,56 @@
 }
 .content1{
     justify-content: center;
+    margin: 0 auto;
+}
+.content2{
+    justify-content: center;
+    margin: 0 auto;
+}
+.content3{
+    justify-content: center;
+    margin: 0 auto;
+}
+.content4{
+    justify-content: center;
+    margin: 0 auto;
+}
+.content5{
+    justify-content: center;
+    margin: 0 auto;
 }
 .Ul{
+    padding: 0;
     list-style-type: none;
     color: rgb(131, 126, 126);
     font-family: sans-serif;  
 }
 .input{
     height: 40px;
-    width: 350px;
-    margin-left: 40px;
+    width: 300px;
 }
 .Button{
-    height: 46px;
+    width:30px;
+    padding: 4px;
     background-color: #F7631B;
+    color: white;
+    border: 2px solid #F7631B;
+}
+.list-element{
+    margin:  10px 0px;
+}
+.list-element:hover{
+    color:  #F7631B;
+}
+.containerInput{
+    width: 340px;
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    color: rgb(131, 126, 126);
+    margin-left: 350px;
+    padding-bottom: 100px;
 }
 
 
