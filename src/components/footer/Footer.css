@@ -64,8 +64,9 @@
 }
 .text{
     color: rgb(131, 126, 126);
-    margin-left: 350px;
-    padding-bottom: 100px;
+    width:1100px;
+    margin:0 auto;
+    padding-bottom: 20px;
 }
 
 
