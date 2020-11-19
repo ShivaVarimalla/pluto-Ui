@@ -4,7 +4,7 @@ import Aboutus from './components/aboutus/Aboutus';
 import Footer from './components/footer/Footer';
 import Navbar from './components/navbar/Navbar.js'
 import Ourservices from './components/ourservices/Ourservices';
-import Program from './components/Programs/Program';
+import Program from './components/program/Program';
 import Registration from './components/registration/Registration';
 
 function App() {
@@ -21,6 +21,7 @@ function App() {
           </div>
       </div>
       <Registration/>
+      <Program/>
       <Ourservices/>
       <Footer/>
     </div>
