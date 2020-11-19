@@ -1,0 +1,31 @@
+.program{
+    width: 100%;
+    background-color: #04091E;
+    color:  rgb(131, 126, 126)
+}
+.courses{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    width: 1200px;
+    margin : 0 auto;
+}
+.sub{
+    justify-content: center;
+    flex-direction: column;  
+    margin: 0 auto;
+}
+.parts{
+    list-style-type: none;
+
+}
+.H1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    color: white;
+}
+.H3:hover{
+    color: #F7631B;
+    font-family: sans-serif;
+}

@@ -1,6 +1,6 @@
 import React from 'react'
 import image1 from '../../images/image1.jpg';
-import image2 from '../../images/image1.jpg';
+import image2 from '../../images/image2.jpg';
 import './Ourservices.css'
 import Carousel from 'react-material-ui-carousel'
 import {Paper} from '@material-ui/core'
@@ -37,7 +37,7 @@ function Item(props)
         <Paper>
           <div className='our-container'>
             <div>
-              <image src={props.item.image}/>
+            <img src={props.item.image} width='100%' height='250px'/>
             </div>
             <div>
             <h2>{props.item.name}</h2>
