@@ -1,11 +1,11 @@
 import React from 'react'
-import images from '../images/image1.jpg'
+import images from '../../images/image1.jpg'
 import './Ourservices.css'
 
 
 function Ourservices() {
   return (
-    <div className="App">
+    <div className="Our-services">
      <h1 className="heading">Ourservices</h1>
      <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">

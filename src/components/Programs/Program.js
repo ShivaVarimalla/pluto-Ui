@@ -1,12 +1,12 @@
 import React from 'react'
 import './Program.css';
 //import {BrowserRouter} from 'react-router-dom'
-import images from '../images/image2.jpg'
+import images from '../../images/image2.jpg'
 
 
 function Program() {
   return (
-    <div className="App">
+    <div className="Programs">
         <h1>Register</h1>
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
