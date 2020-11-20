@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/pluto-project/static/css/main.40809ac5.chunk.css",
-    "main.js": "/pluto-project/static/js/main.8a81671f.chunk.js",
-    "main.js.map": "/pluto-project/static/js/main.8a81671f.chunk.js.map",
-    "runtime-main.js": "/pluto-project/static/js/runtime-main.8f8367e5.js",
-    "runtime-main.js.map": "/pluto-project/static/js/runtime-main.8f8367e5.js.map",
+    "main.js": "/pluto-project/static/js/main.dd613bdd.chunk.js",
+    "main.js.map": "/pluto-project/static/js/main.dd613bdd.chunk.js.map",
+    "runtime-main.js": "/pluto-project/static/js/runtime-main.3f59c854.js",
+    "runtime-main.js.map": "/pluto-project/static/js/runtime-main.3f59c854.js.map",
     "static/css/2.fe708519.chunk.css": "/pluto-project/static/css/2.fe708519.chunk.css",
-    "static/js/2.b8cf8fcc.chunk.js": "/pluto-project/static/js/2.b8cf8fcc.chunk.js",
-    "static/js/2.b8cf8fcc.chunk.js.map": "/pluto-project/static/js/2.b8cf8fcc.chunk.js.map",
-    "static/js/3.1687db07.chunk.js": "/pluto-project/static/js/3.1687db07.chunk.js",
-    "static/js/3.1687db07.chunk.js.map": "/pluto-project/static/js/3.1687db07.chunk.js.map",
+    "static/js/2.698041ee.chunk.js": "/pluto-project/static/js/2.698041ee.chunk.js",
+    "static/js/2.698041ee.chunk.js.map": "/pluto-project/static/js/2.698041ee.chunk.js.map",
+    "static/js/3.e3a96b38.chunk.js": "/pluto-project/static/js/3.e3a96b38.chunk.js",
+    "static/js/3.e3a96b38.chunk.js.map": "/pluto-project/static/js/3.e3a96b38.chunk.js.map",
     "index.html": "/pluto-project/index.html",
     "static/css/2.fe708519.chunk.css.map": "/pluto-project/static/css/2.fe708519.chunk.css.map",
     "static/css/main.40809ac5.chunk.css.map": "/pluto-project/static/css/main.40809ac5.chunk.css.map",
-    "static/js/2.b8cf8fcc.chunk.js.LICENSE.txt": "/pluto-project/static/js/2.b8cf8fcc.chunk.js.LICENSE.txt",
+    "static/js/2.698041ee.chunk.js.LICENSE.txt": "/pluto-project/static/js/2.698041ee.chunk.js.LICENSE.txt",
     "static/media/index.css": "/pluto-project/static/media/image.e2743ef9.jpg",
     "static/media/image1.74c31bf6.jpg": "/pluto-project/static/media/image1.74c31bf6.jpg",
     "static/media/image2.abb5f814.jpg": "/pluto-project/static/media/image2.abb5f814.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f8367e5.js",
+    "static/js/runtime-main.3f59c854.js",
     "static/css/2.fe708519.chunk.css",
-    "static/js/2.b8cf8fcc.chunk.js",
+    "static/js/2.698041ee.chunk.js",
     "static/css/main.40809ac5.chunk.css",
-    "static/js/main.8a81671f.chunk.js"
+    "static/js/main.dd613bdd.chunk.js"
   ]
 }
