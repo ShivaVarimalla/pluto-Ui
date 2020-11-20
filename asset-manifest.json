@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/pluto-Ui/static/css/main.3b98dd0e.chunk.css",
-    "main.js": "/pluto-Ui/static/js/main.8a81671f.chunk.js",
-    "main.js.map": "/pluto-Ui/static/js/main.8a81671f.chunk.js.map",
-    "runtime-main.js": "/pluto-Ui/static/js/runtime-main.fa2f6154.js",
-    "runtime-main.js.map": "/pluto-Ui/static/js/runtime-main.fa2f6154.js.map",
-    "static/css/2.fe708519.chunk.css": "/pluto-Ui/static/css/2.fe708519.chunk.css",
-    "static/js/2.b8cf8fcc.chunk.js": "/pluto-Ui/static/js/2.b8cf8fcc.chunk.js",
-    "static/js/2.b8cf8fcc.chunk.js.map": "/pluto-Ui/static/js/2.b8cf8fcc.chunk.js.map",
-    "static/js/3.1687db07.chunk.js": "/pluto-Ui/static/js/3.1687db07.chunk.js",
-    "static/js/3.1687db07.chunk.js.map": "/pluto-Ui/static/js/3.1687db07.chunk.js.map",
-    "index.html": "/pluto-Ui/index.html",
-    "static/css/2.fe708519.chunk.css.map": "/pluto-Ui/static/css/2.fe708519.chunk.css.map",
-    "static/css/main.3b98dd0e.chunk.css.map": "/pluto-Ui/static/css/main.3b98dd0e.chunk.css.map",
-    "static/js/2.b8cf8fcc.chunk.js.LICENSE.txt": "/pluto-Ui/static/js/2.b8cf8fcc.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/pluto-Ui/static/media/image.e2743ef9.jpg",
-    "static/media/image1.74c31bf6.jpg": "/pluto-Ui/static/media/image1.74c31bf6.jpg",
-    "static/media/image2.abb5f814.jpg": "/pluto-Ui/static/media/image2.abb5f814.jpg"
+    "main.css": "/shivashankar1253.github.io/pluto-Ui/static/css/main.575a7df6.chunk.css",
+    "main.js": "/shivashankar1253.github.io/pluto-Ui/static/js/main.8a81671f.chunk.js",
+    "main.js.map": "/shivashankar1253.github.io/pluto-Ui/static/js/main.8a81671f.chunk.js.map",
+    "runtime-main.js": "/shivashankar1253.github.io/pluto-Ui/static/js/runtime-main.44ed4c1e.js",
+    "runtime-main.js.map": "/shivashankar1253.github.io/pluto-Ui/static/js/runtime-main.44ed4c1e.js.map",
+    "static/css/2.fe708519.chunk.css": "/shivashankar1253.github.io/pluto-Ui/static/css/2.fe708519.chunk.css",
+    "static/js/2.b8cf8fcc.chunk.js": "/shivashankar1253.github.io/pluto-Ui/static/js/2.b8cf8fcc.chunk.js",
+    "static/js/2.b8cf8fcc.chunk.js.map": "/shivashankar1253.github.io/pluto-Ui/static/js/2.b8cf8fcc.chunk.js.map",
+    "static/js/3.1687db07.chunk.js": "/shivashankar1253.github.io/pluto-Ui/static/js/3.1687db07.chunk.js",
+    "static/js/3.1687db07.chunk.js.map": "/shivashankar1253.github.io/pluto-Ui/static/js/3.1687db07.chunk.js.map",
+    "index.html": "/shivashankar1253.github.io/pluto-Ui/index.html",
+    "static/css/2.fe708519.chunk.css.map": "/shivashankar1253.github.io/pluto-Ui/static/css/2.fe708519.chunk.css.map",
+    "static/css/main.575a7df6.chunk.css.map": "/shivashankar1253.github.io/pluto-Ui/static/css/main.575a7df6.chunk.css.map",
+    "static/js/2.b8cf8fcc.chunk.js.LICENSE.txt": "/shivashankar1253.github.io/pluto-Ui/static/js/2.b8cf8fcc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/shivashankar1253.github.io/pluto-Ui/static/media/image.e2743ef9.jpg",
+    "static/media/image1.74c31bf6.jpg": "/shivashankar1253.github.io/pluto-Ui/static/media/image1.74c31bf6.jpg",
+    "static/media/image2.abb5f814.jpg": "/shivashankar1253.github.io/pluto-Ui/static/media/image2.abb5f814.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa2f6154.js",
+    "static/js/runtime-main.44ed4c1e.js",
     "static/css/2.fe708519.chunk.css",
     "static/js/2.b8cf8fcc.chunk.js",
-    "static/css/main.3b98dd0e.chunk.css",
+    "static/css/main.575a7df6.chunk.css",
     "static/js/main.8a81671f.chunk.js"
   ]
 }
