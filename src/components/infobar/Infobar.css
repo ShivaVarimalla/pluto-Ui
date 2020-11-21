@@ -1,0 +1,26 @@
+.infobar-container{
+    display: flex;
+    max-width: 1200px;
+    margin:0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.infobar{
+    width:100%;
+    background-color: #04091E;
+    color:white;
+}
+.element-group{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin:10px;
+    padding: 0px;
+}
+.element{
+    font-size: 12px;
+    margin: 0 10px;
+}
+.element.first{
+    margin-left: 0px;
+}

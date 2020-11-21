@@ -4,6 +4,7 @@ import './Program.css'
 function Program (){
 return(
     <div className="program">
+        <div className='program-container'>
         <h1 className="H1">Browse Through Our Programs</h1>
             <div className="courses">
                     <div className="sub">
@@ -21,13 +22,12 @@ return(
 
                     </div>
                     <div className="sub">
-                        <h3 className="H3">Mechanical</h3>
                         <h3 className="H3">Chemical</h3>   
                         <h3 className="H3">CCE</h3>
                         <h3 className="H3">EEE</h3>
                     </div>
             </div>
-        
+        </div>
     </div>
     )
 }

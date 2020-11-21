@@ -6,7 +6,7 @@ function Footer (){
     return (
         <div className="footer">
             <div className="main">
-                <div className=" content1">
+                <div className=" content">
                     <h3 className="head">Top Products</h3>
                         <ul className="Ul">
                             <li className="list-element">Managed Website</li>
@@ -15,7 +15,7 @@ function Footer (){
                             <li className="list-element">Marketing Services</li>
                         </ul>
                 </div>
-                <div className="content2">
+                <div className="content">
                     <h3  className="head">Quick Links</h3>
                         <ul className="Ul">
                             <li className="list-element">Jobs</li>
@@ -24,7 +24,7 @@ function Footer (){
                             <li className="list-element">Trems of Service</li>
                         </ul>
                 </div>
-                <div className="content3">
+                <div className="content">
                     <h3  className="head">Features</h3>
                         <ul className="Ul">
                             <li className="list-element">Jobs</li>
@@ -33,7 +33,7 @@ function Footer (){
                             <li className="list-element">Trems of Service</li>
                         </ul>
                 </div>
-                <div className="content4">
+                <div className="content">
                     <h3  className="head">Resoures</h3>
                         <ul className="Ul">
                             <li className="list-element">Guides</li>
@@ -42,13 +42,13 @@ function Footer (){
                             <li className="list-element">Agencies</li>
                         </ul>
                 </div>
-                <div className="content5">
+                {/* <div className="content5">
                     <h3  className="head">NewsLetter</h3>
                         <ul className="Ul">
                             <li className="list-element">Stay Update with our latest</li>
                         </ul>
                        <div classname="containerInput"> <input className="input" placeholder="Enter Email Address"/><div className="Button"><TrendingFlatIcon classname="icon"/></div></div>
-                </div>
+                </div> */}
             </div>
             <p className="text">Copyright ©2020 All rights reserved</p>
         </div>

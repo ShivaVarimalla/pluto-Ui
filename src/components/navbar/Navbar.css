@@ -1,19 +1,18 @@
 
-.Nav-bar{
+.fixed-navbar{
     position: fixed;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    width: 100%;
+}
+.Nav-bar{
     padding-bottom: 6px;
     padding-top: 20px;
-    width: 100%;
 }
 .Nav-bar.active{
     background-color: rgb(4,9,30,0.8);
 }
 .container-nav{
     display: flex;
-    width: 1200px;
+    max-width: 1200px;
     margin:0 auto;
     justify-content: space-between;
     border-bottom: 1px solid #736c7a;

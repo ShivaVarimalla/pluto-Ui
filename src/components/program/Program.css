@@ -3,21 +3,26 @@
     background-color: #04091E;
     color:  rgb(131, 126, 126)
 }
+.program-container{
+    max-width: 1200px;
+    margin : 0 auto;
+}
 .courses{
     padding-top: 50px;
     padding-bottom: 50px;
     display: flex;
-    width: 1200px;
-    margin : 0 auto;
+    width: 70%;
+    margin:0 auto;
+    flex-wrap: wrap;
 }
 .sub{
     justify-content: center;
-    flex-direction: column;  
-    margin: 0 auto;
+    flex-direction: column;
+    width:280px;
+    text-align: center;
 }
 .parts{
     list-style-type: none;
-
 }
 .H1{
     display: flex;

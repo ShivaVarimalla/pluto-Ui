@@ -1,0 +1,12 @@
+.About{
+    background-color: #F46326;
+    color: white;
+    padding: 10px 0px;
+}
+.about-section{
+    max-width:1200px;
+    margin:0 auto;
+}
+.about-heading{
+    text-align: center;
+}
