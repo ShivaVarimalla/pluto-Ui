@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pluto-Ui/static/css/main.83c104a2.chunk.css",
-    "main.js": "/pluto-Ui/static/js/main.1887d48b.chunk.js",
-    "main.js.map": "/pluto-Ui/static/js/main.1887d48b.chunk.js.map",
+    "main.css": "/pluto-Ui/static/css/main.45417055.chunk.css",
+    "main.js": "/pluto-Ui/static/js/main.82abe158.chunk.js",
+    "main.js.map": "/pluto-Ui/static/js/main.82abe158.chunk.js.map",
     "runtime-main.js": "/pluto-Ui/static/js/runtime-main.c01e0aa8.js",
     "runtime-main.js.map": "/pluto-Ui/static/js/runtime-main.c01e0aa8.js.map",
     "static/css/2.fe708519.chunk.css": "/pluto-Ui/static/css/2.fe708519.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b0a2b362.chunk.js.map": "/pluto-Ui/static/js/3.b0a2b362.chunk.js.map",
     "index.html": "/pluto-Ui/index.html",
     "static/css/2.fe708519.chunk.css.map": "/pluto-Ui/static/css/2.fe708519.chunk.css.map",
-    "static/css/main.83c104a2.chunk.css.map": "/pluto-Ui/static/css/main.83c104a2.chunk.css.map",
+    "static/css/main.45417055.chunk.css.map": "/pluto-Ui/static/css/main.45417055.chunk.css.map",
     "static/js/2.4c45ff1d.chunk.js.LICENSE.txt": "/pluto-Ui/static/js/2.4c45ff1d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/pluto-Ui/static/media/image.e2743ef9.jpg",
     "static/media/image1.74c31bf6.jpg": "/pluto-Ui/static/media/image1.74c31bf6.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.c01e0aa8.js",
     "static/css/2.fe708519.chunk.css",
     "static/js/2.4c45ff1d.chunk.js",
-    "static/css/main.83c104a2.chunk.css",
-    "static/js/main.1887d48b.chunk.js"
+    "static/css/main.45417055.chunk.css",
+    "static/js/main.82abe158.chunk.js"
   ]
 }
