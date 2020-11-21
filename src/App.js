@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React,{useState,useEffect} from 'react'
 import './App.css';
 import Aboutus from './components/aboutus/Aboutus';
 import Footer from './components/footer/Footer';
@@ -10,6 +10,15 @@ import Registration from './components/registration/Registration';
 
 function App() {
   const [displaySidebar,setSidebar] = useState(false);
+
+  useEffect(()=>{
+    if(window.screen.width<=800){
+      setSidebar(true);
+    }else{
+      setSidebar(false);
+    }
+  },[])
+
   const checkWidth = ()=>{
     console.log(window.screen.width);
     if(window.screen.width<=800){

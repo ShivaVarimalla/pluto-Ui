@@ -13,10 +13,6 @@ const Infobar = ()=>{
                     <li className='element'><LinkedInIcon fontSize='small'/></li>
                     <li className='element'><WhatsAppIcon fontSize='small'/></li>
                 </ul>
-                <ul className='element-group'>
-                    <li className='element'>+91 XXXXXXXXXX</li>
-                    <li className='element'>pluto@pluto.in</li>
-                </ul>
             </div>
         </div>
     );
